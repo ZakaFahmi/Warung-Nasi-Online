@@ -16,21 +16,21 @@ if (!isset($_SESSION)) {
 
 		<div id="da-slider" class="da-slider">
 			<div class="da-slide">
-				<h2>Ayam Bakar Gurih</h2>
-				<p>Ayam Bakar Dengan Cita Rasa manis gurih dipadukan dengan sambal cobek kecap. </p>
+				<h2>caffe joy</h2>
+				<p>Lokasi Kabupaten Bangkalan, Jawa Timur Makan di tempat· Bawa pulang· Pesan antar </p>
 				<a href="produk.php" class="da-link">Lihat Produk</a>
 				<div class="da-img"><img src="img/parallax-slider/1.jpg" style="border: 3px solid whitesmoke; border-radius: 10px;" alt="image01" /></div>
 			</div>
 			<div class="da-slide">
-				<h2>Sayur Asem</h2>
-				<p>Makanan khas sunda yang melegenda dan mendunia dengan cita rasa asam, gurih dan pedas.</p>
+				<h2>caffee abel</h2>
+				<p>Datang dan nikmati kopi caffe Abel dari seluruh dunia dan makanan dari pemasok lokal!</p>
 				<a href="produk.php" class="da-link">Lihat Produk</a>
 				<div class="da-img"><img src="img/parallax-slider/2.jpg" style="border: 3px solid whitesmoke; border-radius: 10px;" alt="image03" /></div>
 				
 			</div>
 			<div class="da-slide">
-				<h2>Ayam Kremes</h2>
-				<p>Ayam kremes dengan balutan telur dan dipadukan dengan sambal goreng terasi.</p>
+				<h2>caffe suarna</h2>
+				<p>Jalan Raya, Perumahan Telang Inda, Tellang, Kamal, Bangkalan Regency, </p>
 				<a href="produk.php" class="da-link">Lihat Produk</a>
 				<div class="da-img"><img src="img/parallax-slider/3.jpg" style="border: 3px solid whitesmoke; border-radius: 10px;" alt="image02" /></div>
 			</div>
@@ -52,7 +52,7 @@ if (!isset($_SESSION)) {
       		<!-- start: Hero Unit - Main hero unit for a primary marketing message or call to action -->
       		<div class="hero-unit">
         		<p>
-                Warung Sunda Ibu Nana Merupakan warung sunda online yang menyediakan makanan khas sunda yang dapat di pesan secara online dengan metode pembayaran cash on delivery.
+                reservasi-cafe adalah website yang menyediakan tempat untuk para pemilik caffe untuk publis di media sosial tanpa harus membayar mahal
 				</p>
         		<p><a class="btn btn-success btn-large" href="profil.php">Tentang Kami &raquo;</a></p>
                                 
@@ -102,8 +102,8 @@ if (!isset($_SESSION)) {
 						<div class="icons-box-vert">
 							<i class="ico-ok ico-color circle-color big"></i>
 							<div class="icons-box-vert-info">
-								<h3>Pengiriman Cepat</h3>
-								<p>Warung Sunda Ibu Nana siap mengirim pesanan anda secara gratis dengan radius maksimal 5 KM.</p>
+								<h3>reservasi-cafe</h3>
+								<p>Daftarnya mudah tinggal klik saja tentunya harganya murah</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -115,8 +115,8 @@ if (!isset($_SESSION)) {
 						<div class="icons-box-vert">
 							<i class="ico-cup  ico-white circle-color-full big-color"></i>
 							<div class="icons-box-vert-info">
-								<h3>Rasa Juara</h3>
-								<p>Warung Sunda Ibu Nana memiliki cita rasa yang berbeda dari warung sunda lainnya, di proses higienis dan dari bahan berkualitas.</p>
+							<h3>reservasi-cafe</h3>
+								<p>Daftarnya mudah tinggal klik saja tentunya harganya murah</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -160,8 +160,6 @@ if (!isset($_SESSION)) {
 					<div id="footer-menu-links">
 
 						<ul id="footer-nav">
-
-								<li><a href="#">Free Delivery Max 5 KM</a></li>
 
 							<li><a href="#">Cash On Delivery (COD)</a></li>
 
