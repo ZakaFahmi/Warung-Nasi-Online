@@ -10,9 +10,9 @@
 				<!-- start: About -->
 				<div class="span3">
 					
-					<h3>Warung Sunda Ibu Nana</h3>
+					<h3>reservasi-cafe</h3>
 					<p>
-                    Warung Sunda Ibu Nana merupakan warung makan online khas sunda, melayani delivery dengan sistem pembayaran Cash On Delivery (COD)
+                    reservasi-cafe merupakan tempat untuk menampung pengusaha caffe di seluruh indonesia secara online
 					 </p>
 						
 				</div>
@@ -21,11 +21,8 @@
 				<!-- start: Photo Stream -->
 				<div class="span3">
 					
-					<h3>Info Aplikasi</h3>
-                    Aplikasi ini versi gratis<br/>
-                    Mau yang full version ?<br />
-                    Hubungi via whatsapp : <a href="https://api.whatsapp.com/send?phone=6285694984803&text=Hallo%20Hakko%20Blogs%20Saya%20Mau%20Order%20warnasol%20Versi%20pro%20nya&source=&data=">0856 949 848 03</a><br />
-                    Website : <a href="https://www.hakkoblogs.com">www.hakkoblogs.com</a>
+					<h3>Info Penembang</h3>
+                    Aplikasi ini dibuat oleh 3 orang gadis dari teknik industri
                     </div>
 				<!-- end: Photo Stream -->
 
@@ -110,7 +107,7 @@
 		<div class="container">
 		
 			<p>
-				Copyright &copy; <a href="https://www.hakkoblogs.com" alt="Bootstrap Themes">www.hakkoblogs.com &copy; 2018 </a>
+				Copyright &copy; <a href="https://www.reservasi-cafe.com" alt="Bootstrap Themes">www.reservasi-cafe.com &copy; 2022 </a>
 			</p>
 	
 		</div>

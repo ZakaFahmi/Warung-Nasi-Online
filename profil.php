@@ -37,11 +37,8 @@
       		<!-- start: Hero Unit - Main herounit for a primary marketing message or call to action -->
 
             <blockquote style="font-size: medium;">
-            <b>Profil Kami : </b>
-            <br />
-            <b>Warung sunda Ibu Nana</b> adalah sebuah rumah makan yang menyediakan makanan khas sunda yang berlokasi di perum Graha Asri jl. Citanduy raya blok p no.9 Kab. Bekasi
-            <br/><br /> <b>Warung Sunda Ibu Nana</b> menerima pesanan makanan untuk catering, arisan, pesta dan nasi box. <br /> 
-            
+            <b>Reservasi Cafe : </b>
+            reservasi-cafe merupakan tempat untuk menampung pengusaha caffe di seluruh indonesia secara online
             
             </blockquote>
             <!--<div class="title"><h3>Keranjang Anda</h3></div>
@@ -88,8 +85,8 @@
 						<div class="icons-box-vert">
 							<i class="ico-ok ico-color circle-color big"></i>
 							<div class="icons-box-vert-info">
-								<h3>Pengiriman Cepat</h3>
-								<p>Warung Sunda Ibu Nana siap mengirim pesanan anda secara gratis dengan radius maksimal 5 KM.</p>
+							<h3>Siap melayani</h3>
+								<p>reservasi-cafe siap melayani dan menampung kebutuhan online caffe di seluruh indonesia.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -101,8 +98,8 @@
 						<div class="icons-box-vert">
 							<i class="ico-cup  ico-white circle-color-full big-color"></i>
 							<div class="icons-box-vert-info">
-								<h3>Rasa Juara</h3>
-								<p>Warung Sunda Ibu Nana memiliki cita rasa yang berbeda dari warung sunda lainnya, di proses higienis dan dari bahan berkualitas.</p>
+							<h3>Di jamin mudah</h3>
+								<p>reservasi-cafe memiliki teknologi paling muthir untuk mengedarkan caffe anda di sosial media.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -147,9 +144,6 @@
 
 						<ul id="footer-nav">
 
-							<li><a href="#">Free Delivery Max 5 KM</a></li>
-
-							<li><a href="#">Cash On Delivery (COD)</a></li>
 
 							<li><a href="#">Pelayanan Cepat</a></li>
 

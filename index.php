@@ -16,21 +16,21 @@ if (!isset($_SESSION)) {
 
 		<div id="da-slider" class="da-slider">
 			<div class="da-slide">
-				<h2>caffe joy</h2>
-				<p>Lokasi Kabupaten Bangkalan, Jawa Timur Makan di tempat· Bawa pulang· Pesan antar </p>
+				<h2>Caffe abel</h2>
+				<p>Come and enjoy Café Abel's coffee from all over the world and food from local suppliers! Tuesday-Sunday: 10:00-17:00.. </p>
 				<a href="produk.php" class="da-link">Lihat Produk</a>
 				<div class="da-img"><img src="img/parallax-slider/1.jpg" style="border: 3px solid whitesmoke; border-radius: 10px;" alt="image01" /></div>
 			</div>
 			<div class="da-slide">
-				<h2>caffee abel</h2>
-				<p>Datang dan nikmati kopi caffe Abel dari seluruh dunia dan makanan dari pemasok lokal!</p>
+				<h2>kopi joy</h2>
+				<p>KopiJoy adalah coffeshop yang memiliki beragam menu Kopi dan berbagai macam menu non-kopi/makanan..</p>
 				<a href="produk.php" class="da-link">Lihat Produk</a>
 				<div class="da-img"><img src="img/parallax-slider/2.jpg" style="border: 3px solid whitesmoke; border-radius: 10px;" alt="image03" /></div>
 				
 			</div>
 			<div class="da-slide">
 				<h2>caffe suarna</h2>
-				<p>Jalan Raya, Perumahan Telang Inda, Tellang, Kamal, Bangkalan Regency, </p>
+				<p>Swarna Cafe & Space. Super Partner. Aneka nasi, Jepang, Kopi.</p>
 				<a href="produk.php" class="da-link">Lihat Produk</a>
 				<div class="da-img"><img src="img/parallax-slider/3.jpg" style="border: 3px solid whitesmoke; border-radius: 10px;" alt="image02" /></div>
 			</div>
@@ -52,7 +52,7 @@ if (!isset($_SESSION)) {
       		<!-- start: Hero Unit - Main hero unit for a primary marketing message or call to action -->
       		<div class="hero-unit">
         		<p>
-                reservasi-cafe adalah website yang menyediakan tempat untuk para pemilik caffe untuk publis di media sosial tanpa harus membayar mahal
+                reservasi-cafe merupakan tempat untuk menampung pengusaha caffe di seluruh indonesia secara online.
 				</p>
         		<p><a class="btn btn-success btn-large" href="profil.php">Tentang Kami &raquo;</a></p>
                                 
@@ -102,8 +102,8 @@ if (!isset($_SESSION)) {
 						<div class="icons-box-vert">
 							<i class="ico-ok ico-color circle-color big"></i>
 							<div class="icons-box-vert-info">
-								<h3>reservasi-cafe</h3>
-								<p>Daftarnya mudah tinggal klik saja tentunya harganya murah</p>
+								<h3>Siap melayani</h3>
+								<p>reservasi-cafe siap melayani dan menampung kebutuhan online caffe di seluruh indonesia.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -115,8 +115,8 @@ if (!isset($_SESSION)) {
 						<div class="icons-box-vert">
 							<i class="ico-cup  ico-white circle-color-full big-color"></i>
 							<div class="icons-box-vert-info">
-							<h3>reservasi-cafe</h3>
-								<p>Daftarnya mudah tinggal klik saja tentunya harganya murah</p>
+								<h3>Di jamin mudah</h3>
+								<p>reservasi-cafe memiliki teknologi paling muthir untuk mengedarkan caffe anda di sosial media.</p>
 							</div>
 							<div class="clear"></div>
 						</div>
@@ -161,9 +161,11 @@ if (!isset($_SESSION)) {
 
 						<ul id="footer-nav">
 
-							<li><a href="#">Cash On Delivery (COD)</a></li>
+								<li><a href="#">Cepat Publis</a></li>
 
-							<li><a href="#">Pelayanan Cepat</a></li>
+							<li><a href="#">Biyaya Murah</a></li>
+
+							<li><a href="#">Dijamin Aman</a></li>
 
 						</ul>
 

@@ -1,7 +1,7 @@
 <head>
 	<!-- start: Meta -->
 	<meta charset="utf-8">
-	<title>Warung Nasi Online Ibu Nana</title> 
+	<title>reservasi-cafe</title> 
 	<meta name="description" content="Warung Sunda Ibu Nana | Makanan khas sunda yang ada di cikarang"/>
 	<meta name="keywords" content="Warung, Makan, Sunda, Halal, Enak, Nikmat, Bersih, Terjamin" />
 	<!-- end: Meta -->
