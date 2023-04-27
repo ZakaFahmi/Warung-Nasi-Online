@@ -2,7 +2,7 @@
 
 Aplikasi ini merupakan pengembangan dari aplikasi sebelumnya yaitu Aplikasi Toko Online DistroIT
 yang di bangun dengan menggunakan PHP native database MySQL dan Bootstrap 3, untuk aplikasi lainnya 
-dan tutorial lainnya bisa menuju link berikut ini www.hakkoblogs.com
+dan tutorial lainnya bisa menuju link berikut ini 
 
 Halaman Index
 ![gambar-index](https://user-images.githubusercontent.com/5027795/53283086-a88b9f00-3773-11e9-833a-2fa684a6bec9.png)
@@ -22,6 +22,6 @@ Dashboard Customer
 Halaman Menu
 ![gambar-enu](https://user-images.githubusercontent.com/5027795/53283129-159f3480-3774-11e9-95b3-533c1d05d00b.png)
 
-Untuk aplikasi lainnya silahkan ke www.hakkoblogs.com
+Untuk aplikasi lainnya silahkan ke gabut-it.com
 
 
