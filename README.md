@@ -22,6 +22,6 @@ Dashboard Customer
 Halaman Menu
 ![gambar-enu](https://user-images.githubusercontent.com/5027795/53283129-159f3480-3774-11e9-95b3-533c1d05d00b.png)
 
-Untuk aplikasi lainnya silahkan ke (gabut-it.com)[https://www.gabut-it.com/projects/]
+Untuk aplikasi lainnya silahkan ke [gabut-it.com](https://www.gabut-it.com/projects/)
 
 
